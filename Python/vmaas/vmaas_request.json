@@ -1,0 +1,17 @@
+{
+    "datacenter": "t0554",
+    "number_of_vms": "1",
+    "vm_size": "medium",
+    "operating_system": "windows2016",
+    "environment": "prod",
+    "ad_group": "app-msa-mobilityservercoidpwv",
+    "vm_group": "tts-mobility-mpls",
+    "identifier": "MOB",
+    "maintenance_time": "0100",
+    "maintenance_day": "1",
+    "maintenance_week": "1",
+    "blossom_id": "CI02722557",
+    "business_group": "target technology services",
+    "pvt_safe_name" : "COID-WIN-SRV-CFD-Mobility",
+    "justification": "new vm for win2012 to 2016 migration"
+}
