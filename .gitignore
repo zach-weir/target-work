@@ -1,0 +1,24 @@
+# Folders
+Old/
+
+# Files
+.DS_Store
+
+# Powershell files & packages
+
+# Python files & packages
+__pycache__/
+
+# Java files and packages
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm
+.idea/

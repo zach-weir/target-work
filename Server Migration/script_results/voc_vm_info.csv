@@ -1,0 +1,6 @@
+name,disks,os,owner,vmaas_group,ip_addr
+t3881voc01p,2,2016,z028710,app-msa-mobilityservercoidpwv,10.39.128.23
+t3892voc01p,2,2012,z028710,app-msa-mobilityservercoidpwv,10.37.0.50
+t3895voc01p,2,2012,z028710,app-msa-mobilityservercoidpwv,10.37.96.38
+t3897voc01p,not found,not found,not found,not found,not found
+t3899voc01p,not found,not found,not found,not found,not found
